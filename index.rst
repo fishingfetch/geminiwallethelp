@@ -3,7 +3,7 @@ How to Contact Gemini Wallet Support (Official Helpline Inside)
 ##################
 
 .. meta::
-   :msvalidate.01:
+   :msvalidate.01: 594033310F70FE52CB629D5235CD6411
 
 .. meta::
    :description: Contact gemini wallet customer support at 1.870.406*6577 for help with login, trading, KYC, withdrawals, and wallet issues. Fast, toll-free assistance.
