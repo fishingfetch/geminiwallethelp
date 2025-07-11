@@ -11,7 +11,7 @@ How to Contact Gemini Wallet Support (Official Helpline Inside)
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="tel:+18704066577" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Connect Me Now</a>
+       <a href="tel:+18582180011" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Connect Me Now</a>
    </div>
 
 Are you having trouble accessing your **Gemini Wallet**, completing a transaction, or syncing your device? You’re not alone — and we’re here to help.
