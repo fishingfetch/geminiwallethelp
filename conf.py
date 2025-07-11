@@ -16,9 +16,9 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'eToro Wallet'
+project = 'Gemini Wallet'
 copyright = '2025'
-author = 'Carson McCullers'
+author = 'Jennifer White'
 
 
 # The full version, including alpha/beta/rc tags
