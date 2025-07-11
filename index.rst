@@ -1,5 +1,5 @@
 ##################
-ow to Contact Gemini Wallet Support (Official Helpline Inside)
+How to Contact Gemini Wallet Support (Official Helpline Inside)
 ##################
 
 .. meta::
